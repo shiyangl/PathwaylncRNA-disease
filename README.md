@@ -1,4 +1,4 @@
-## pathwayGNN
+## pathwayLDA
 
 A pathway-based metapath graph neural network for lncRNA–disease association prediction.
 
